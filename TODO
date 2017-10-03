@@ -1,8 +1,0 @@
-INCUBATOR SIDE:
-	add a API
-		-controls stock handeling
-		-make transactions
-	increase database with barecodes and stock
-
-PI SIDE:
-	create an app that use the incubator API
