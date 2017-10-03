@@ -1,0 +1,9 @@
+# Server side :
+add barecode to the products API
+add barecode to the users API
+add stocks to the API
+permit the program to edit the stocks in the API
+
+# Client side
+make it use the API
+
